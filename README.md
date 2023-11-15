@@ -11,7 +11,7 @@ These are my personal dotfiles, a collection of configuration files and scripts 
 
 ## Installation
 
-I do not currently have an install script. However I am planning to make one. To install these dotfiles on your system, follow these steps:
+I do not currently have an install script, however I am planning to make one. To install these dotfiles on your system, follow these steps:
 
 1. **Clone the repository:**
 
