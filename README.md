@@ -4,10 +4,10 @@ These are my personal dotfiles, a collection of configuration files and scripts 
 
 ## Table of Contents
 
-- [Installation](##installation)
-- [Usage](##usage)
-- [Customization](##customization)
-- [Additional Resources](##additional-resources)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Customization](#customization)
+- [Additional Resources](#additional-resources)
 
 ## Installation
 
