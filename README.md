@@ -32,7 +32,7 @@ Once the dotfiles are installed, you can customize your environment further. Her
 - Wofi
 	- Configuration for wofi to allow for easy program navigation.
 - Swaylock
-	- An easy to customize swaylock configuration for optimized window management.
+	- An easy to customize swaylock configuration for optimized lockscreen management.
 - Thunar
 	- Configuration for the Thunar file manager, allowing for easy customization through the use of GTK Settings.
 
