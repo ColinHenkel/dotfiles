@@ -11,18 +11,15 @@ These are my personal dotfiles, a collection of configuration files and scripts 
 
 ## Installation
 
-To install these dotfiles on your system, follow these steps:
+I do not currently have an install script. However I am planning to make one. To install these dotfiles on your system, follow these steps:
 
 1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/masirith/dotfiles.git ~/.dotfiles
 
-2. **Run the install script:**
-
-   ```bash
-   cd ~/.dotfiles
-   ./install.sh
+2. **Drag and replace:**
+- Drag the files into your current .config folder. PLEASE make sure to backup your current dotfiles in case something goes wrong.
 
 ## Usage
 Once the dotfiles are installed, you can customize your environment further. Here are some key features and shortcuts:
