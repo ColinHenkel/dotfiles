@@ -23,17 +23,17 @@ I do not currently have an install script, however I am planning to make one. To
 - Drag the files into your current .config folder. PLEASE make sure to backup your current dotfiles in case something goes wrong.
 
 ## Usage
-Once the dotfiles are installed, you can customize your environment further. Here are some key features and shortcuts:
+Once the dotfiles are installed, you can customize your environment further. Here are some key features:
+- Hypr
+	- An easy to customize Hyprland configuration for optimized window management.
 - Nvim Configuration
   - Customized Nvim settings for an enhanced editing experience.
 - Shell Configuration
 	- Configurations for TEs like kitty, alacritty, foot, and zsh Shell for a more productive terminal environment.
-- Scripts
+- Hypr/Scripts
 	- Various utility scripts can be found in the 'scripts' directory.
 - Wofi
 	- Configuration for wofi to allow for easy program navigation.
-- Swaylock
-	- An easy to customize swaylock configuration for optimized lockscreen management.
 - Thunar
 	- Configuration for the Thunar file manager, allowing for easy customization through the use of GTK Settings.
 
