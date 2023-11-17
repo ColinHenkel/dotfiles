@@ -8,6 +8,7 @@ These are my personal dotfiles, a collection of configuration files and scripts 
 - [Usage](#usage)
 - [Customization](#customization)
 - [Additional Resources](#additional-resources)
+- [Screenshot](#screenshot)
 
 ## Installation
 
@@ -43,3 +44,6 @@ Feel free to customize any configuration file to suit your preferences. The stru
 Here are some additional resources to help you understand and customize these dotfiles:
 - [Awesome Dotfiles](https://github.com/webpro/awesome-dotfiles): A curated list of dotfiles resources and inspirations.
 - [Dotfiles Github Repository](https://dotfiles.github.io/): Dotfiles on Github - Your unofficial guide to dotfiles.
+
+## Screenshot
+![image](https://github.com/masirith/dotfiles/assets/59761458/00441002-dbfa-47f4-96d7-15121f526f72)
