@@ -1,6 +1,6 @@
 # Dotfiles
 
-These are my personal dotfiles, a collection of configuration files and scripts that I use to customize my development environment. Feel free to explore, use, and modify them as needed.
+These are my personal dotfiles, a collection of configuration files and scripts that I use to customize my development environment. Feel free to explore, use, and modify them as needed. My current layout is a modifed form of JaKooLit's dots, as I saw his video and thought they were very nice. His link will be in additional resources!
 
 ## Table of Contents
 
@@ -42,6 +42,7 @@ Feel free to customize any configuration file to suit your preferences. The stru
 
 ## Additional Resources
 Here are some additional resources to help you understand and customize these dotfiles:
+- [JaKooLit](https://github.com/JaKooLit): Source for the foundation that I used to create these dotfiles.
 - [Awesome Dotfiles](https://github.com/webpro/awesome-dotfiles): A curated list of dotfiles resources and inspirations.
 - [Dotfiles Github Repository](https://dotfiles.github.io/): Dotfiles on Github - Your unofficial guide to dotfiles.
 
