@@ -17,6 +17,10 @@ if not vim.loop.fs_stat(lazypath) then
 end
 vim.opt.rtp:prepend(lazypath)
 
+vim.o.tabstop = 4
+vim.o.shiftwidth = 4
+vim.o.expandtab = true
+
 -- NOTE: Here is where you install your plugins.
 --  You can configure plugins using the `config` key.
 --
@@ -125,9 +129,8 @@ require('lazy').setup({
       options = {
         icons_enabled = true,
         theme = 'nord',
-        component_separators = '|',
-        section_separators = '',
-      },
+        component_separators = { left = '', right = ''},
+        section_separators = { left = '', right = ''},      },
     },
   },
 
@@ -189,7 +192,17 @@ require('lazy').setup({
     version = "*",
     dependencies = 'nvim-tree/nvim-web-devicons',
     config = function()
-      require("bufferline").setup {}
+      local highlights = require("nord").bufferline.highlights({
+        italic = true,
+        bold = true,
+      })
+
+      require("bufferline").setup({
+        options = {
+          separator_style = "thin",
+        },
+        highlights = highlights,
+      })
     end,
   },
 
@@ -544,4 +557,3 @@ cmp.setup {
 
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et
-
