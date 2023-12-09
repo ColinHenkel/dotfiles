@@ -114,10 +114,10 @@ require('lazy').setup({
 
   {
     -- Theme inspired by Atom
-    'shaunsingh/nord.nvim',
+    'ellisonleao/gruvbox.nvim',
     priority = 1000,
     config = function()
-      vim.cmd.colorscheme 'nord'
+      vim.cmd.colorscheme 'gruvbox'
     end,
   },
 
@@ -128,7 +128,7 @@ require('lazy').setup({
     opts = {
       options = {
         icons_enabled = true,
-        theme = 'nord',
+        theme = 'gruvbox',
         component_separators = { left = '', right = ''},
         section_separators = { left = '', right = ''},      },
     },
@@ -192,10 +192,10 @@ require('lazy').setup({
     version = "*",
     dependencies = 'nvim-tree/nvim-web-devicons',
     config = function()
-      local highlights = require("nord").bufferline.highlights({
-        italic = true,
-        bold = true,
-      })
+      -- local highlights = require('gruvbox').highlights({
+      --   italic = true,
+      --   bold = true,
+      -- })
 
       require("bufferline").setup({
         options = {

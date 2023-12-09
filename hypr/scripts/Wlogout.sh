@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Start wlogout in the background
-wlogout --protocol layer-shell -b 5 -T 600 -B 600 &
+wlogout
 
 # Capture the PID of the wlogout process
 wlogout_pid=$!
