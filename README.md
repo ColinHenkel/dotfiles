@@ -47,6 +47,7 @@ Here are some additional resources to help you understand and customize these do
 - [Dotfiles Github Repository](https://dotfiles.github.io/): Dotfiles on Github - Your unofficial guide to dotfiles.
 
 ## Screenshot
-![image](https://github.com/masirith/dotfiles/assets/59761458/3b1aae29-f436-4850-96b8-8369cef902e6)
+![image](https://github.com/masirith/dotfiles/assets/59761458/f0f23f9d-8b60-4d09-ae29-922993f1c562)
+
 
 
