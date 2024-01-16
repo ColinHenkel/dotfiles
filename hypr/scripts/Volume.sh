@@ -1,6 +1,6 @@
 #!/bin/bash
 
-iDIR="$HOME/.config/dunst/icons"
+iDIR="$HOME/masirith/.icons/GruvBox-Plus-Dark/actions/16"
 
 # Get Volume
 get_volume() {
@@ -12,13 +12,13 @@ get_volume() {
 get_icon() {
 	current=$(get_volume)
 	if [[ "$current" -eq "0" ]]; then
-		echo "$iDIR/volume-mute.png"
+		echo "$iDIR/player-volume.svg"
 	elif [[ ("$current" -ge "0") && ("$current" -le "30") ]]; then
-		echo "$iDIR/volume-low.png"
+		echo "$iDIR/player-volume.svg"
 	elif [[ ("$current" -ge "30") && ("$current" -le "60") ]]; then
-		echo "$iDIR/volume-mid.png"
+		echo "$iDIR/player-volume.svg"
 	elif [[ ("$current" -ge "60") && ("$current" -le "100") ]]; then
-		echo "$iDIR/volume-high.png"
+		echo "$iDIR/player-volume.svg"
 	fi
 }
 

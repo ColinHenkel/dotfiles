@@ -1,5 +1,5 @@
 @define-color critical #cc241d; /* critical color */
-@define-color warning #fabd2f;  /* warning color */
+@define-color warning #cc241d;  /* warning color */
 @define-color fgcolor #ffffff;  /* foreground color */
 @define-color bgcolor #303030;  /* background color */
 @define-color bgcolor #222436;  /* background color */
@@ -100,7 +100,7 @@ tooltip label{
 }
 
 #workspaces button.urgent {
-    background-color: #bf616a;
+    background-color: #cc241d;
 }
 
 #mode {
@@ -306,7 +306,7 @@ label:focus {
 }
 
 #taskbar button.active {
-    background-color: #7f849c;
+    background-color: #3c3836;
 }
 
 #mpd {
