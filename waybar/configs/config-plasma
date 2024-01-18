@@ -29,7 +29,7 @@
 	"tray", 
  	"custom/weather",
 	"cpu", 
-	"temperature", 
+	//"temperature", 
 	"memory",  
 	//"backlight",
 	"battery",

@@ -1,8 +1,8 @@
 @define-color critical #cc241d; /* critical color */
 @define-color warning #cc241d;  /* warning color */
 @define-color fgcolor #ffffff;  /* foreground color */
-@define-color bgcolor #303030;  /* background color */
-@define-color bgcolor #222436;  /* background color */
+@define-color bgcolor #282828;  /* background color */
+@define-color bgcolor #282828;  /* background color */
 @define-color alert   #fb4934;
 
 @define-color accent1 #fb4934;
@@ -17,7 +17,7 @@ font-family: "JetBrainsMono Nerd Font";
 font-weight: bold;
 min-height: 0;
 /* set font-size to 100% if font scaling is set to 1.00 using nwg-look */
-font-size: 98%;
+font-size: 100%;
 font-feature-settings: '"zero", "ss01", "ss02", "ss03", "ss04", "ss05", "cv31"';
 padding: 0px;
 margin-top: 1px;
@@ -53,16 +53,17 @@ window#waybar.empty #window {
 }
 
 tooltip {
-    background: #1e1e2e;
-    opacity: 0.8;
+    background: #282828;
+    opacity: 1;
     border-radius: 10px;
     border-width: 2px;
     border-style: solid;
-    border-color: #11111b;
+    border-color: #ebdbb2;
 }
 
 tooltip label{
-    color: #cdd6f4;
+    color: #458588;
+    padding: 10px;
 }
 
 #workspaces button {
@@ -281,7 +282,7 @@ label:focus {
     color: #ffa000;
 }
 
-#temperature {
+#temperature { 
     color: @accent6;
     /* background-color: #f0932b; */
 }

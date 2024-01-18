@@ -35,7 +35,7 @@
   "format-charging": " {capacity}%",
   "format-plugged": "󱘖 {capacity}%",
   "format-full": "{icon} Full",
-  "format-alt": "{icon} {time}",
+  "format-alt": "{icon}  {time}",
   "format-icons": ["", "", "", "", ""],
   "format-time": "{H}h {M}min",
   "tooltip": true,
@@ -80,20 +80,21 @@
 "clock": {
 	"interval": 1,
   //"format": " {:%I:%M %p}",
-  "format": " {:%H:%M:%S}",
+  "format": " {:%H:%M}",
   "format-alt": " {:%H:%M   %Y, %d %B, %A}",
   "tooltip-format": "<tt><small>{calendar}</small></tt>",
   "calendar": {
+    "background": "#282828",
     "mode"          : "year",
     "mode-mon-col"  : 3,
     "weeks-pos"     : "right",
     "on-scroll"     : 1,
     "format": {
-    "months":     "<span color='#ffead3'><b>{}</b></span>",
-    "days":       "<span color='#ecc6d9'><b>{}</b></span>",
-    "weeks":      "<span color='#99ffdd'><b>W{}</b></span>",
-    "weekdays":   "<span color='#ffcc66'><b>{}</b></span>",
-    "today":      "<span color='#ff6699'><b><u>{}</u></b></span>"
+    "months":     "<span color='#689d6a'><b>{}</b></span>",
+    "days":       "<span color='#b16286'><b>{}</b></span>",
+    "weeks":      "<span color='#83a598'><b>W{}</b></span>",
+    "weekdays":   "<span color='#458588'><b>{}</b></span>",
+    "today":      "<span color='#fb4934'><b><u>{}</u></b></span>"
               }
               }
   },              
