@@ -46,8 +46,14 @@ Here are some additional resources to help you understand and customize these do
 - [Awesome Dotfiles](https://github.com/webpro/awesome-dotfiles): A curated list of dotfiles resources and inspirations.
 - [Dotfiles Github Repository](https://dotfiles.github.io/): Dotfiles on Github - Your unofficial guide to dotfiles.
 
-## Screenshot
-![image](https://github.com/masirith/dotfiles/assets/59761458/f0f23f9d-8b60-4d09-ae29-922993f1c562)
+## Screenshots
+![image](https://github.com/masirith/dotfiles/assets/59761458/d74a36a1-d167-43f6-b27c-b579f1036b55)
+![image](https://github.com/masirith/dotfiles/assets/59761458/73c2785d-5ba5-455c-95c6-f2e2b680c4c1)
+![image](https://github.com/masirith/dotfiles/assets/59761458/23217bce-61ed-4b05-b8a1-790507f20646)
+
+
+
+
 
 
 
