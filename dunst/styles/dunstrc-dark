@@ -1,6 +1,6 @@
 [global]
     font = "JetBrainsMono Nerd Font"
-    highlight = "#ebdbb2"
+    highlight = "#edeff0"
     allow_markup = yes
     format = "<b>%s</b>\n%b"
     sort = yes
@@ -20,15 +20,15 @@
     separator_height = 2
     padding = 8
     horizontal_padding = 8
-    separator_color = "#585858"
+    separator_color = "#3e4041"
     startup_notification = false
     # https://github.com/knopwob/dunst/issues/26#issuecomment-36159395
     #icon_position = left
     #icon_folders = /home/masirith/.icons/GruvBox-Plus-Dark/actions/16
 [frame]
     width = 1
-    highlight = "#fbf1c7"
-    color = "#ebdbb2"
+    highlight = "#3e4041"
+    color = "#edeff0"
 
 [shortcuts]
     close = ctrl+space
@@ -37,16 +37,16 @@
     context = ctrl+shift+period
 
 [urgency_low]
-    background = "#282828"
-    foreground = "#ebdbb2"
+    background = "#0c0e0f"
+    foreground = "#edeff0"
     timeout = 5
 
 [urgency_normal]
-    background = "#282828"
-    foreground = "#ebdbb2"
+    background = "#0c0e0f"
+    foreground = "#edeff0"
     timeout = 20
 
 [urgency_critical]
-    background = "#282828"
-    foreground = "#ebdbb2"
+    background = "#0c0e0f"
+    foreground = "#edeff0"
     timeout = 0

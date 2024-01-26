@@ -90,11 +90,11 @@
     "weeks-pos"     : "right",
     "on-scroll"     : 1,
     "format": {
-    "months":     "<span color='#689d6a'><b>{}</b></span>",
-    "days":       "<span color='#b16286'><b>{}</b></span>",
-    "weeks":      "<span color='#83a598'><b>W{}</b></span>",
-    "weekdays":   "<span color='#458588'><b>{}</b></span>",
-    "today":      "<span color='#fb4934'><b><u>{}</u></b></span>"
+    "months":     "<span color='#81c19b'><b>{}</b></span>",
+    "days":       "<span color='#bc83e3'><b>{}</b></span>",
+    "weeks":      "<span color='#78b892'><b>W{}</b></span>",
+    "weekdays":   "<span color='#67afc1'><b>{}</b></span>",
+    "today":      "<span color='#df5b61'><b><u>{}</u></b></span>"
               }
               }
   },              
