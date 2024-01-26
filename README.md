@@ -48,7 +48,7 @@ Here are some additional resources to help you understand and customize these do
 
 ## Screenshots
 ![image](https://github.com/masirith/dotfiles/assets/59761458/e81e26d1-a529-44cc-9dcf-96ee705d3f34)
-![image](https://github.com/masirith/dotfiles/assets/59761458/46aa7f8c-4523-4c1f-a574-825bda79bfd6)
+![image](https://github.com/masirith/dotfiles/assets/59761458/19498877-ef92-4c99-95f4-1d4193514b53)
 ![image](https://github.com/masirith/dotfiles/assets/59761458/148ca2a4-0248-4dac-85fb-3cf92f869dd3)
 ![image](https://github.com/masirith/dotfiles/assets/59761458/d3c19893-4e9d-4f63-925f-ad3d781e48a8)
 
