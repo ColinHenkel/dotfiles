@@ -50,7 +50,8 @@ Here are some additional resources to help you understand and customize these do
 ![image](https://github.com/user-attachments/assets/5581419c-5d17-4bf8-b3ae-b8b40fc76323)
 ![image](https://github.com/user-attachments/assets/9edfb046-6da6-4bf2-b9f5-095e901d6578)
 ![image](https://github.com/user-attachments/assets/a7251d68-ae15-4142-9496-68329b5545ba)
-![image](https://github.com/user-attachments/assets/cd12f77f-1b08-4907-b483-730990a678ec)
+![image](https://github.com/user-attachments/assets/c2ea609b-4e06-46da-ba24-588604a5ef85)
+
 
 
 
