@@ -2,8 +2,8 @@
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
 include "/home/masirith/.gtkrc-2.0.mine"
-gtk-theme-name="Nordic-bluish-accent-standard-buttons-v40"
-gtk-icon-theme-name="TokyoNight-SE"
+gtk-theme-name="siduck-onedark"
+gtk-icon-theme-name="kora"
 gtk-font-name="Cantarell 11"
 gtk-cursor-theme-name="Adwaita"
 gtk-cursor-theme-size=24
