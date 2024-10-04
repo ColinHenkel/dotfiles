@@ -47,10 +47,11 @@ Here are some additional resources to help you understand and customize these do
 - [Dotfiles Github Repository](https://dotfiles.github.io/): Dotfiles on Github - Your unofficial guide to dotfiles.
 
 ## Screenshots
-![image](https://github.com/masirith/dotfiles/assets/59761458/e81e26d1-a529-44cc-9dcf-96ee705d3f34)
-![image](https://github.com/masirith/dotfiles/assets/59761458/19498877-ef92-4c99-95f4-1d4193514b53)
-![image](https://github.com/masirith/dotfiles/assets/59761458/148ca2a4-0248-4dac-85fb-3cf92f869dd3)
-![image](https://github.com/masirith/dotfiles/assets/59761458/d3c19893-4e9d-4f63-925f-ad3d781e48a8)
+![image](https://github.com/user-attachments/assets/5581419c-5d17-4bf8-b3ae-b8b40fc76323)
+![image](https://github.com/user-attachments/assets/9edfb046-6da6-4bf2-b9f5-095e901d6578)
+![image](https://github.com/user-attachments/assets/a7251d68-ae15-4142-9496-68329b5545ba)
+![image](https://github.com/user-attachments/assets/cd12f77f-1b08-4907-b483-730990a678ec)
+
 
 
 
