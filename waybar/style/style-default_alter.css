@@ -5,12 +5,12 @@
 @define-color bgcolor #0c0e0f;  /* background color */
 @define-color alert   #e8646a;
 
-@define-color accent1 #df5b61;
-@define-color accent2 #6791c9;
-@define-color accent3 #67afc1;
-@define-color accent4 #81c19b;
-@define-color accent5 #e89982;
-@define-color accent6 #c58cec;
+@define-color accent1 #e06c75;
+@define-color accent2 #98c379;
+@define-color accent3 #e5c07b;
+@define-color accent4 #61afef;
+@define-color accent5 #c678dd;
+@define-color accent6 #56b6c2;
 
 *{
 font-family: "JetBrainsMono Nerd Font";
@@ -275,7 +275,7 @@ label:focus {
 }
 
 #custom-weather {
-    color: #66cc99;
+    color: @accent4;
 }
 
 #custom-lock {

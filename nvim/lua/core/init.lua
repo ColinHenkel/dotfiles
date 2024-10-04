@@ -62,6 +62,7 @@ vim.env.PATH = vim.fn.stdpath "data" .. "/mason/bin" .. (is_windows and ";" or "
 
 -------------------------------------- autocmds ------------------------------------------
 local autocmd = vim.api.nvim_create_autocmd
+vim.api.nvim_set_keymap('n', '<C-\\>', ':NvimTreeToggle<CR>', { noremap = true, silent = true })
 
 -- dont list quickfix buffers
 autocmd("FileType", {

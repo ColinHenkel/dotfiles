@@ -36,7 +36,7 @@ tooltip {
 }
 
 tooltip label {
-    color: #cba6f7;
+    color: #c678dd;
     margin-right: 2px;
     margin-left: 2px;
 }
@@ -62,11 +62,11 @@ tooltip label {
 }
 
 #workspaces button {
-    color: #6E6A86;
+    color: #61afef;
 }
 
 #workspaces button.active {
-    color: #cba6f7;
+    color: #abb2bf;
     border-radius: 15px 15px 15px 15px;
 }
 
