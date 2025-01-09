@@ -37,7 +37,7 @@
 	//"wireplumber", 
 	"pulseaudio#microphone",
 	//"custom/updater",
-	"keyboard-state", 
+	//"keyboard-state", 
 	//"custom/cycle_wall",
     // "clock",
 	"custom/power",

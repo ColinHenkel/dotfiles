@@ -84,17 +84,17 @@
   "format-alt": " {:%H:%M   %Y, %d %B, %A}",
   "tooltip-format": "<tt><small>{calendar}</small></tt>",
   "calendar": {
-    "background": "#282828",
+    "background": "#0c0e0f",
     "mode"          : "year",
     "mode-mon-col"  : 3,
     "weeks-pos"     : "right",
     "on-scroll"     : 1,
     "format": {
-    "months":     "<span color='#81c19b'><b>{}</b></span>",
-    "days":       "<span color='#bc83e3'><b>{}</b></span>",
-    "weeks":      "<span color='#78b892'><b>W{}</b></span>",
-    "weekdays":   "<span color='#67afc1'><b>{}</b></span>",
-    "today":      "<span color='#df5b61'><b><u>{}</u></b></span>"
+    "months":     "<span color='#78b892'><b>{}</b></span>",
+    "days":       "<span color='#c58cec'><b>{}</b></span>",
+    "weeks":      "<span color='#67afc1'><b>W{}</b></span>",
+    "weekdays":   "<span color='#edeff0'><b>{}</b></span>",
+    "today":      "<span color='#6791c9'><b><u>{}</u></b></span>"
               }
               }
   },              
