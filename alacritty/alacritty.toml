@@ -1,0 +1,52 @@
+[colors.bright]
+black = "0x5c6370"
+blue = "0x61afef"
+cyan = "0x56b6c2"
+green = "0x98c379"
+magenta = "0xc678dd"
+red = "0xe06c75"
+white = "0xe6efff"
+yellow = "0xd19a66"
+
+[colors.dim]
+black = "0x1e2127"
+blue = "0x61afef"
+cyan = "0x56b6c2"
+green = "0x98c379"
+magenta = "0xc678dd"
+red = "0xe06c75"
+white = "0x828791"
+yellow = "0xd19a66"
+
+[colors.normal]
+black = "0x121415"
+blue = "0x6791c9"
+cyan = "0x70b8ca"
+green = "0x78b892"
+magenta = "0xc58cec"
+red = "0xdf5b61"
+white = "0xedeff0"
+yellow = "0xecd28b"
+
+[colors.primary]
+background = "0x0c0e0f"
+bright_foreground = "0xe6efff"
+foreground = "0xedeff0"
+
+[font]
+size = 13.0
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+
+[font.bold_italic]
+family = "JetBrainsMono Nerd Font"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+
+[window]
+opacity = 1.0

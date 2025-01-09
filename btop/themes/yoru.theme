@@ -1,0 +1,82 @@
+# Theme: Custom Theme
+# By: User
+
+# Main bg
+theme[main_bg]="#0c0e0f"  # black (nvim bg)
+
+# Main text color
+theme[main_fg]="#edeff0"  # white
+
+# Title color for boxes
+theme[title]="#edeff0"  # white
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#81c19b"  # vibrant green
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1f2122"  # one_bg2
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#edeff0"  # white
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#505253"  # light grey
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#78B892"  # green
+
+# Cpu box outline color
+theme[cpu_box]="#5c6370"  # grey
+
+# Memory/disks box outline color
+theme[mem_box]="#5c6370"  # grey
+
+# Net up/down box outline color
+theme[net_box]="#5c6370"  # grey
+
+# Processes box outline color
+theme[proc_box]="#5c6370"  # grey
+
+# Box divider line and small boxes line color
+theme[div_line]="#5c6370"  # grey
+
+# Temperature graph colors
+theme[temp_start]="#f6dc95"  # sun
+theme[temp_mid]="#ecd28b"    # yellow
+theme[temp_end]="#e8646a"    # pink
+
+# CPU graph colors
+theme[cpu_start]="#78B892"   # green
+theme[cpu_mid]="#81c19b"     # vibrant green
+theme[cpu_end]="#DF5B61"     # red
+
+# Mem/Disk free meter
+theme[free_start]="#78B892"   # green
+theme[free_mid]="#81c19b"     # vibrant green
+theme[free_end]="#DF5B61"     # red
+
+# Mem/Disk cached meter
+theme[cached_start]="#78B892"   # green
+theme[cached_mid]="#81c19b"     # vibrant green
+theme[cached_end]="#DF5B61"     # red
+
+# Mem/Disk available meter
+theme[available_start]="#78B892"   # green
+theme[available_mid]="#81c19b"     # vibrant green
+theme[available_end]="#DF5B61"     # red
+
+# Mem/Disk used meter
+theme[used_start]="#78B892"   # green
+theme[used_mid]="#81c19b"     # vibrant green
+theme[used_end]="#DF5B61"     # red
+
+# Download graph colors
+theme[download_start]="#70b8ca"  # teal
+theme[download_mid]="#67AFC1"    # cyan
+theme[download_end]="#5A84BC"    # nord_blue
+
+# Upload graph colors
+theme[upload_start]="#70b8ca"  # teal
+theme[upload_mid]="#67AFC1"    # cyan
+theme[upload_end]="#5A84BC"    # nord_blue
+
